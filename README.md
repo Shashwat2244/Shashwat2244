@@ -1,9 +1,9 @@
-<heb align="center">
+<h1 align="center">
   Hi there 👋, I'm <a href="https://shashwat-shrivastava.vercel.app/" target="_blank"><b>Shashwat Shrivastava</b></a>
-</h31>
+</h1>
 
 <p align="center">
-  <b>Associate Software Consultant @ Mindsprint</b> | Software Developer & Data Engineer
+  <b>Associate Software Consultant @ Mindsprint</b> | Full-Stack Developer & Data Engineer
 </p>
 
 ---
@@ -38,8 +38,3 @@ I am an Associate Software Consultant at Mindsprint, focusing on building scalab
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shashwat2244&show_icons=true&theme=radical" alt="Shashwat's GitHub Stats" />
 </p>
-
-<!---
-Shashwat2244/Shashwat2244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
