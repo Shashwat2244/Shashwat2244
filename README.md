@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Associate Software Consultant @ Mindsprint</b> | Full-Stack Developer & Data Engineer
+  <b>Associate Technical Consultant @ Mindsprint</b> | Full-Stack Developer & Data Engineer
 </p>
 
 ---
