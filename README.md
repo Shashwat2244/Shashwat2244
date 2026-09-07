@@ -32,6 +32,7 @@ I am an Associate Software Consultant at Mindsprint, focusing on building scalab
 - **[Football Value Tracker](https://github.com/Shashwat2244/football_value_tracker):** 100% automated batch ELT pipeline extracting 500+ weekly Premier League data points using Python, DuckDB, and Streamlit.
 - **[Credit Card Fraud Detection](https://github.com/Shashwat2244):** Real-time data pipeline and ML model with SMOTE resampling achieving 94% accuracy (FastAPI, React, Python).
 - **[SportsFit](https://github.com/Shashwat2244/SportsFit):** Scalable sports e-commerce platform supporting CRUD operations across 200+ product entries.
+- **[Financial-Reconciliation Engine](https://github.com/Shashwat2244/Financial-Reconciliation-Engine):** An enterprise-grade data pipeline built to automate the reconciliation of internal financial orders against external payment gateway settlements.
 
 ---
 
